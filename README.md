@@ -1,8 +1,8 @@
 # simple_ludo_app
 
 A new Flutter project.
-<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785529.png" width="500" height="600">
-<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785401.png">
+<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785529.png"  height="600">
+<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785401.png"  height="600">
 
 
 
