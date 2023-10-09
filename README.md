@@ -1,6 +1,10 @@
 # simple_ludo_app
 
 A new Flutter project.
+<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785529.png">
+<img src="https://github.com/feysalabdi/ludo_app/blob/main/screenshot/Screenshot_1696785401.png">
+
+
 
 ## Getting Started
 
